@@ -1,2 +1,4 @@
 # PowerElectronics_Intern_Tasks
-Boost Converter (Yükseltici): 12V DC giriş gerilimini 24V DC çıkış gerilimine dönüştürmek üzere tasarlayacağım bir dönüştürücü devresidir. Bu proje kapsamında, devrenin çalışma prensiplerini inceleyecek; LTspice'ta simülasyonlarını, KiCad'de ise şematik ve PCB tasarımlarını oluşturacağım.
+Bu proje, 12V DC giriş gerilimini 24V DC (1A) çıkış gerilimine yükselten 24W kapasiteli bir Boost Converter tasarımıdır.
+Proje kapsamında devrenin çalışma prensipi incelenmiş ve LTspice ortamında simülasyonları gerçekleştirilmiştir.
+Sistem, 300 kHz anahtarlama frekansında ve Sürekli İletim Modunda (CCM) çalışacak şekilde tasarlanmıştır. Belirlenen akım ve gerilim dalgalanma (ripple) kriterlerine uygun olarak filtre hesaplamaları yapılmış olup, sistemin kararlı çalışma durumu LTspice simülasyonları ile doğrulanmıştır
