@@ -1,10 +1,10 @@
-Id;Designator;Footprint;Quantity;Designation;Supplier and ref
-1;R2;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;10R;
-2;J4;PinHeader_1x02_P2.54mm_Vertical;1;Conn_01x02_Pin;
-3;D1;TO-220-2_Vertical;1;D_Schottky;
-4;C1;C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4;1;10uf;
-5;R1;R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;1;24R;
-6;J1,J2,J3;TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;3;Conn_01x02;
-7;Q1;TO-220-3_Vertical;1;NMOS;
-8;L1;proje_bobin;1;33uH;
-9;U1;DIP-8_W7.62mm;1;TC4420CPA;
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"TO-220-2_Vertical";1;"24R";;;
+2;"J1,J2,J3";"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal";3;"Conn_01x02";;;
+3;"R2";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"10R";;;
+4;"J4";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";;;
+5;"D1";"TO-220-2_Vertical";1;"D_Schottky";;;
+6;"C1";"C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4";1;"10uf";;;
+7;"Q1";"TO-220-3_Vertical";1;"NMOS";;;
+8;"L1";"proje_bobin";1;"33uH";;;
+9;"U1";"DIP-8_W7.62mm";1;"TC4420CPA";;;
